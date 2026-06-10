@@ -1,5 +1,5 @@
-#PPG is a Lie
-##Analyzing True Shooting Efficiency Among NBA's Elite Guards & Wings (2025-26)
+# PPG is a Lie
+### Analyzing True Shooting Efficiency Among NBA's Elite Guards & Wings (2025-26)
 ## Motivation
 
 While watching the 2025-26 NBA Finals, I noticed Jalen Brunson receiving enormous praise 
